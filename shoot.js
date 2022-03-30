@@ -26,5 +26,8 @@ AFRAME.registerComponent("bullets",{
                 scene.appendChild(bullet)
             }
         })
+    },
+    removeBullet:function(){
+        
     }
 })
